@@ -3,5 +3,5 @@ tags={
 	"Gameplay"
 }
 name="Faster Arcology"
-supported_version="v3.14.*"
+supported_version="v4.*"
 path="[path_to_mod]"
