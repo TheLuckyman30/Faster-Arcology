@@ -4,4 +4,4 @@ tags={
 }
 name="Faster Arcology"
 supported_version="v3.14.*"
-path="C:/Users/Tardi/OneDrive/Documents/Paradox Interactive/Stellaris/mod/faster_arcology"
+path="[path_to_mod]"
